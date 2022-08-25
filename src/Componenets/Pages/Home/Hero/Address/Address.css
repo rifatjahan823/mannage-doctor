@@ -1,0 +1,11 @@
+.address_section h5{
+    font-size: 25px;
+    font-weight: 700;
+}
+.address_section p{
+    margin: 0;
+}
+.address_icon{
+    font-size: 30px;
+    margin-bottom: 3%;
+}
